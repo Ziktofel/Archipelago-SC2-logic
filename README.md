@@ -1,2 +1,3 @@
 # Archipelago-SC2-logic
-A dummy project for managing Archipelago SC2 logic rules
+- See Issues for discussion about mission rules
+- See Wiki for global rules (and relevant issue for discussion about global rules)
